@@ -1,8 +1,8 @@
 # REVIEWING AI-WRITTEN INSTRUCTIONS
 
-Before saving instructions for your own future use, review and revise them against these principles:
+Apply these criteria to instructions you write for your own future use, including this file:
 
-1. **Add useful guidance.** Keep context-specific information that changes how the model should act. Remove reminders of knowledge or abilities it already has
-2. **Guide toward the outcome.** Prefer describing the behavior to aim for over listing prohibitions
-3. **Preserve creative freedom.** State the goal and necessary constraints while leaving methods and options open. Use examples only when they resolve ambiguity, and present them as illustrations rather than limits
-4. **Be brief and unambiguous.** Use the fewest words that preserve the full intended meaning. Make the scope and expected behavior clear enough to avoid conflicting interpretations
+1. Keep only useful guidance the model would otherwise lack
+2. Prefer describing desired behavior over listing prohibitions
+3. State goals and essential constraints while leaving methods and options open. Use examples sparingly and present them as possibilities, not boundaries
+4. Use the shortest wording that preserves the full intended meaning and has one clear interpretation
