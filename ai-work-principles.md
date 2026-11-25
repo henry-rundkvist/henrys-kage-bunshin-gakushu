@@ -14,3 +14,7 @@ Apply these criteria to instructions, including this file:
 
 1. Always aim to simplify code and unify similar patterns while preserving required behavior
 2. Increase complexity only with the user's explicit permission, after explaining why it is needed
+
+# COMPARISONS
+
+Base every comparison on relevant numbers and rigorous logic, applied consistently to all options. Derive conclusions from numerical differences and verified capabilities or constraints. Unsupported descriptions and invented scores are not evidence; unknown information is not confirmed absence.
